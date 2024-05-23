@@ -1,0 +1,100 @@
+
+{
+    "Awards":
+    [
+        {
+            "id":1,
+            "src": "./Assets/Awards/2007.png",
+            "title":"Sample 1",
+            "year": "2019",
+            "created_at": "January 1, 2019"
+        },
+        {
+            "id":2,
+            "src": "../../../Assets/Awards/2008.png",
+            "title":"Sample 2",
+            "year": "2019",
+            "created_at": "February 1, 2019"
+        },
+        {
+            "id":3,
+            "src": "../../../Assets/Awards/2012.png",
+            "title":"Sample 3",
+            "year": "2019",
+            "created_at": "March 1, 2019"
+        },
+        {
+            "id":4,
+            "src": "../../../Assets/Awards/2013.png",
+            "title":"Sample 4",
+            "year": "2020",
+            "created_at": "January 1, 2020"
+        }
+    ],
+    "Events":
+    [
+        {
+            "id":1,
+            "src": "./events_gallery/brighten_up_project.jpg",
+            "title":"Ground Breaking Ceremony 2019",
+            "year": "2019",
+            "created_at": "January 1, 2019"
+        },
+        {
+            "id":2,
+            "src": "./events_gallery/run_for_light.jpg",
+            "title":"Run For Light 2019",
+            "year": "2019",
+            "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "created_at": "February 1, 2019"
+        },
+        {
+            "id":3,
+            "src": "./events_gallery/tree_planting.jpg",
+            "title":"Tree Planting 2019",
+            "year": "2019",
+            "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "created_at": "March 1, 2019"
+        },
+        {
+            "id":4,
+            "src": "./events_gallery/Outreach_program.jpg",
+            "title":"Outreach Program 2020",
+            "year": "2020",
+            "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "created_at": "January 1, 2020"
+        }
+    ],
+
+    "Gallery":
+    [
+        {
+            "id":1,
+            "src": "./zameco_gallery/img1.jpg"
+        },
+        {
+            "id":2,
+            "src": "./zameco_gallery/img2.jpg"
+        },
+        {
+            "id":3,
+            "src": "./zameco_gallery/img3.jpg"
+        },
+        {
+            "id":4,
+            "src": "./zameco_gallery/img4.jpg"
+        },
+        {
+            "id":5,
+            "src": "./zameco_gallery/img5.jpg"
+        },
+        {
+            "id":6,
+            "src": "./zameco_gallery/img6.jpg"
+        },
+        {
+            "id":7,
+            "src": "./zameco_gallery/img7.jpg"
+        }
+    ]
+}

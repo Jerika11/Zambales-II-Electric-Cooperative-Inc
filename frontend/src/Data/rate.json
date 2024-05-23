@@ -1,0 +1,173 @@
+{
+    "Rate":
+    [ 
+        {
+          "id": 1,
+          "source": "1. Masinloc Power Partners Company Ltd. Inc.",
+          "kwhpurchase": "16,574,322.00",
+          "basicgenerationcost": "179,002,677.60",
+          "othercostadjustment": "4,190,659.29",
+          "discounts": "9,613,106.76",
+          "totalgenerationcostmonth": "178,386,783.51",
+          "othergenerationadjustment": "0.0000",
+          "averagegenerationcost": "10.7628",
+          "datePosted": "January, 2023"
+        },
+        {
+          "id": 2,
+          "source": "1. Masinloc Power Partners Company Ltd. Inc.",
+          "kwhpurchase": "15,911,397.00",
+          "basicgenerationcost": "215,172,116.56",
+          "othercostadjustment": "4,772,064.04",
+          "discounts": "9,228,610.38",
+          "totalgenerationcostmonth": "215,329,875.41",
+          "othergenerationadjustment": "0.0000",
+          "averagegenerationcost": "13.5331",
+          "datePosted": "February, 2023"
+        },
+        {
+          "id": 3,
+          "source": "1. Masinloc Power Partners Company Ltd. Inc.",
+          "kwhpurchase": "15,937,354.00",
+          "basicgenerationcost": "120,562,885.41",
+          "othercostadjustment": "2,123,961.36",
+          "discounts": "9,243,665.31",
+          "totalgenerationcostmonth": "118,065,014.12",
+          "othergenerationadjustment": "0.0000",
+          "averagegenerationcost": "7.4081",
+          "datePosted": "March, 2023"
+        },
+        {
+          "id": 4,
+          "source": "1. Masinloc Power Partners Company Ltd. Inc.",
+          "kwhpurchase": "14,853,769.00",
+          "basicgenerationcost": "137,988,968.57",
+          "othercostadjustment": "2,892,313.18",
+          "discounts": "8,615,185.84",
+          "totalgenerationcostmonth": "136,573,688.83",
+          "othergenerationadjustment": "0.0000",
+          "averagegenerationcost": "9.1945",
+          "datePosted": "April, 2023"
+        },
+        {
+          "id": 5,
+          "source": "1. Masinloc Power Partners Company Ltd. Inc.",
+          "kwhpurchase": "19,885,552.00",
+          "basicgenerationcost": "185,754,460.71",
+          "othercostadjustment": "2,987,252.09",
+          "discounts": "11,533,619.92",
+          "totalgenerationcostmonth": "182,974,902.84",
+          "othergenerationadjustment": "0.0000",
+          "averagegenerationcost": "9.2014",
+          "datePosted": "May, 2023"
+        },
+        {
+          "id": 6,
+          "source": "1. Masinloc Power Partners Company Ltd. Inc.",
+          "kwhpurchase": "20,531,076.00",
+          "basicgenerationcost": "185,128,921.29",
+          "othercostadjustment": "9,705,253.51",
+          "discounts": "11,908,024.36",
+          "totalgenerationcostmonth": "188,880,162.62",
+          "othergenerationadjustment": "0.0000",
+          "averagegenerationcost": "9.1997",
+          "datePosted": "June, 2023"
+        },
+        {
+          "id": 7,
+          "source": "1. Masinloc Power Partners Company Ltd. Inc.",
+          "kwhpurchase": "16,574,322.00",
+          "basicgenerationcost": "179,002,677.60",
+          "othercostadjustment": "4,190,659.29",
+          "discounts": "9,613,106.76",
+          "totalgenerationcostmonth": "178,386,783.51",
+          "othergenerationadjustment": "0.0000",
+          "averagegenerationcost": "10.7628",
+          "datePosted": "July, 2023"
+        },
+        {
+          "id": 8,
+          "source": "1. Masinloc Power Partners Company Ltd. Inc.",
+          "kwhpurchase": "15,911,397.00",
+          "basicgenerationcost": "215,172,116.56",
+          "othercostadjustment": "4,772,064.04",
+          "discounts": "9,228,610.38",
+          "totalgenerationcostmonth": "215,329,875.41",
+          "othergenerationadjustment": "0.0000",
+          "averagegenerationcost": "13.5331",
+          "datePosted": "August, 2023"
+        },
+        {
+          "id": 9,
+          "source": "1. Masinloc Power Partners Company Ltd. Inc.",
+          "kwhpurchase": "16,574,322.00",
+          "basicgenerationcost": "179,002,677.60",
+          "othercostadjustment": "4,190,659.29",
+          "discounts": "9,613,106.76",
+          "totalgenerationcostmonth": "178,386,783.51",
+          "othergenerationadjustment": "0.0000",
+          "averagegenerationcost": "10.7628",
+          "datePosted": "September, 2023"
+        },
+        {
+          "id": 10,
+          "source": "1. Masinloc Power Partners Company Ltd. Inc.",
+          "kwhpurchase": "15,911,397.00",
+          "basicgenerationcost": "215,172,116.56",
+          "othercostadjustment": "4,772,064.04",
+          "discounts": "9,228,610.38",
+          "totalgenerationcostmonth": "215,329,875.41",
+          "othergenerationadjustment": "0.0000",
+          "averagegenerationcost": "13.5331",
+          "datePosted": "October, 2023"
+        },
+        {
+          "id": 11,
+          "source": "1. Masinloc Power Partners Company Ltd. Inc.",
+          "kwhpurchase": "16,574,322.00",
+          "basicgenerationcost": "179,002,677.60",
+          "othercostadjustment": "4,190,659.29",
+          "discounts": "9,613,106.76",
+          "totalgenerationcostmonth": "178,386,783.51",
+          "othergenerationadjustment": "0.0000",
+          "averagegenerationcost": "10.7628",
+          "datePosted": "November, 2023"
+        },
+        {
+          "id": 12,
+          "source": "1. Masinloc Power Partners Company Ltd. Inc.",
+          "kwhpurchase": "15,911,397.00",
+          "basicgenerationcost": "215,172,116.56",
+          "othercostadjustment": "4,772,064.04",
+          "discounts": "9,228,610.38",
+          "totalgenerationcostmonth": "215,329,875.41",
+          "othergenerationadjustment": "0.0000",
+          "averagegenerationcost": "13.5331",
+          "datePosted": "December, 2023"
+        },
+        {
+          "id": 13,
+          "source": "1. Masinloc Power Partners Company Ltd. Inc.",
+          "kwhpurchase": "13,366,015.00",
+          "basicgenerationcost": "107,601,599.24",
+          "othercostadjustment": "36,246,138.17",
+          "discounts": "7,838,944.65",
+          "totalgenerationcostmonth": "139,928,265.09",
+          "othergenerationadjustment": "0.0000",
+          "averagegenerationcost": "0.0000",
+          "datePosted": "January, 2024"
+        },
+        {
+          "id": 14,
+          "source": "2. WESM",
+          "kwhpurchase": "5,356,500.00",
+          "basicgenerationcost": "26,175,394.22",
+          "othercostadjustment": "173,875.70",
+          "discounts": "0.00",
+          "totalgenerationcostmonth": "26,001,518.52",
+          "othergenerationadjustment": "0.0000",
+          "averagegenerationcost": "0.0000",
+          "datePosted": "January, 2024"
+        }
+    ]    
+}

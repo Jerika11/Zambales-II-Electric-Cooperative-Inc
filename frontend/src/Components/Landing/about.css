@@ -1,0 +1,70 @@
+
+.gallery--container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-box{
+    width: 150px;
+    height: 400px;
+    margin: 5px;
+    border-radius: 20px;
+    background: url(../../Assets/gallery/brighten_up_project.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    transition: width 0.5s;
+}
+
+.img-box:nth-child(2){
+    background: url(../../Assets/gallery/run_for_light.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.img-box:nth-child(3){
+    background: url(../../Assets/gallery/tree_planting.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.img-box:nth-child(4){
+    background: url(../../Assets/gallery/Outreach_program.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.img-box h3{
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    left: 30px;
+    font-size: 15px;
+    opacity: 0;
+    transition: bottom 0.5s, opacity 0.5s;
+}
+
+.img-box:hover{
+    width: 300px;
+    margin: 0px;
+    cursor: pointer;
+}
+
+.img-box:hover h3{
+    opacity: 1;
+    bottom: 25px;
+}
+
+.full--image{
+    width: 300px;
+}
+
+#clients {
+    display: block;
+}
+
+
+@media screen and (max-width: 780px) {
+    #clients {
+        display: none;
+    }
+}

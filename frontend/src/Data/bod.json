@@ -1,0 +1,78 @@
+{
+    "Bod":
+    [
+        {
+            "id":1,
+            "src": "../../bod/img1.jpg",
+            "fullname":"Luther C. Agasa",
+            "position": "President",
+            "location": "Board of Director San Antonio",
+            "when": "November 21, 2015 - Present",
+            "created_at": "January 1, 2019"
+        },
+        {
+            "id":2,
+            "src": "../../bod/img2.jpg",
+            "fullname":"Alvin M. Farrales",
+            "position": "President",
+            "location": "Board of Director San Antonio",
+            "when": "November 19, 2022- Present",
+            "created_at": "January 1, 2019"
+        },
+        {
+            "id":3,
+            "src": "../../bod/img3.jpg",
+            "fullname":"Evangeline B. Rodriguez",
+            "position": "President",
+            "location": "Board of Director San Antonio",
+            "when": "November 18, 2017 – Present",
+            "created_at": "January 1, 2019"
+        },
+        {
+            "id":4,
+            "src": "../../bod/img4.jpg",
+            "fullname":"Paola Marie A. Rosete",
+            "position": "President",
+            "location": "Board of Director San Antonio",
+            "when": "November 18, 2017 – Present",
+            "created_at": "January 1, 2019"
+        },
+        {
+            "id":5,
+            "src": "../../bod/img5.jpg",
+            "fullname":"Jose S. Borlagdatan",
+            "position": "President",
+            "location": "Board of Director San Antonio",
+            "when": "November 19, 2022 - Present",
+            "created_at": "January 1, 2019"
+        },
+        {
+            "id":6,
+            "src": "../../bod/img6.jpg",
+            "fullname":"Kathy T. Navarro",
+            "position": "President",
+            "location": "Board of Director San Antonio",
+            "when": "November 19, 2022 – Present",
+            "created_at": "January 1, 2019"
+        },
+        {
+            "id":7,
+            "src": "../../bod/img7.jpg",
+            "fullname":"Roel M. Mauricio",
+            "position": "President",
+            "location": "Board of Director San Antonio",
+            "when": "October 8, 2022 - Present",
+            "created_at": "January 1, 2019"
+        },
+        {
+            "id":8,
+            "src": "../../bod/img8.jpg",
+            "fullname":"Romwil F. De Jesus",
+            "position": "General Manager",
+            "location": "",
+            "when": "August 7,2020 - Present",
+            "created_at": "January 1, 2019"
+        }
+        
+    ]
+}

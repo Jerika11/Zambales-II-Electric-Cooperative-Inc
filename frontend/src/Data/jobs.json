@@ -1,0 +1,72 @@
+{
+    "Jobs":
+    [
+        {
+            "id":1,
+            "src": "../../placeholder/Poster1.jpg",
+            "department":"Information Technology",
+            "title": "IT Hardware and Network Administrator",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus.",
+            "requirement": "Resume, Diploma (Photo Copy), Barangay Clearance, 2pcs (2X2 picture), Photo Copy of PSA/NSO Birth Certificate, Photocopy of Employment Certificates",
+            "qualification": "Must be a graduate of BS Computer Engineering  / BS ComSci or BS Information Technology;, Must have at least 3 years of Experience in computer networking, Must have knowledge in network services",
+            "deadline": "2024-04-19",
+            "date_posted": "2024-03-19"
+        },
+        {
+            "id":2,
+            "src": "../../placeholder/Poster1.jpg",
+            "department":"Marketing",
+            "title": "Marketing Analyst",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus.",
+            "requirement": "Resume, Diploma (Photo Copy), Barangay Clearance, 2pcs (2X2 picture), Photo Copy of PSA/NSO Birth Certificate, Photocopy of Employment Certificates",
+            "qualification": "Must be a graduate of BS Computer Engineering  / BS ComSci or BS Information Technology;, Must have at least 3 years of Experience in computer networking, Must have knowledge in network services",
+            "deadline": "2024-04-19",
+            "date_posted": "2024-03-19"
+        },
+        {
+            "id":3,
+            "src": "../../placeholder/Poster1.jpg",
+            "department":"Information Technology",
+            "title": "Quality Assurance Tester",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus.",
+            "requirement": "Resume, Diploma (Photo Copy), Barangay Clearance, 2pcs (2X2 picture), Photo Copy of PSA/NSO Birth Certificate, Photocopy of Employment Certificates",
+            "qualification": "Must be a graduate of BS Computer Engineering  / BS ComSci or BS Information Technology;, Must have at least 3 years of Experience in computer networking, Must have knowledge in network services",
+            "deadline": "2024-04-19",
+            "date_posted": "2024-03-19"
+        },
+        {
+            "id":4,
+            "src": "../../placeholder/Poster1.jpg",
+            "department":"Human Resources",
+            "title": "Product Manager",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus.",
+            "requirement": "Resume, Diploma (Photo Copy), Barangay Clearance, 2pcs (2X2 picture), Photo Copy of PSA/NSO Birth Certificate, Photocopy of Employment Certificates",
+            "qualification": "Must be a graduate of BS Computer Engineering  / BS ComSci or BS Information Technology;, Must have at least 3 years of Experience in computer networking, Must have knowledge in network services",
+            "deadline": "2024-04-19",
+            "date_posted": "2024-03-19"
+        },
+        {
+            "id":5,
+            "src": "../../placeholder/Poster1.jpg",
+            "department":"Information Technology",
+            "title": "UI/UX Designer",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus.",
+            "requirement": "Resume, Diploma (Photo Copy), Barangay Clearance, 2pcs (2X2 picture), Photo Copy of PSA/NSO Birth Certificate, Photocopy of Employment Certificates",
+            "qualification": "Must be a graduate of BS Computer Engineering  / BS ComSci or BS Information Technology;, Must have at least 3 years of Experience in computer networking, Must have knowledge in network services",
+            "deadline": "2024-04-19",
+            "date_posted": "2024-03-19"
+        },
+        {
+            "id":6,
+            "src": "../../placeholder/Poster1.jpg",
+            "department":"Information Technology",
+            "title": "Data Scientist",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus.",
+            "requirement": "Resume, Diploma (Photo Copy), Barangay Clearance, 2pcs (2X2 picture), Photo Copy of PSA/NSO Birth Certificate, Photocopy of Employment Certificates",
+            "qualification": "Must be a graduate of BS Computer Engineering  / BS ComSci or BS Information Technology;, Must have at least 3 years of Experience in computer networking, Must have knowledge in network services",
+            "deadline": "2024-04-19",
+            "date_posted": "2024-03-19"
+        }
+    ]
+}
+

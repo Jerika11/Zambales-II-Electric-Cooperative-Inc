@@ -1,0 +1,64 @@
+{
+    "ServiceCenter":
+    [
+        {
+          "id": "1",
+          "name": "Subic Collection Office 1",
+          "address": "Matain, Subic, Zambales",
+          "tel_no": "047-232-2414"
+        },
+        {
+            "id": "2",
+          "name": "Subic Collection office and Service Center",
+          "address": "Mangahan, Mangan-Vaca Subic, Zambales",
+          "tel_no": "047-232-3060"
+        },
+        {
+            "id": "3",
+          "name": "Castillejos Collection Office",
+          "address": "Sta. Maria, Castillejos, Zambales",
+          "tel_no": "047-602-1181"
+        },
+        {
+            "id": "4",
+          "name": "Main Office",
+          "address": "National Road, Brgy. Nagbunga, Castillejos, Zambales",
+          "contact_numbers": {
+            "landline": ["047-602-2401", "047-602-2402"],
+            "smart": ["0947-892-7764", "0939-938-9794"],
+            "sun": ["0933-877-3558"],
+            "globe": ["0917-138-1679", "0917-137-3283"]
+          }
+        },
+        {
+            "id": "5",
+          "name": "San Marcelino Collection Office",
+          "address": "Central, San Marcelino, Zambales",
+          "tel_no": "047-602-2451"
+        },
+        {
+            "id": "6",
+          "name": "San Antonio Collection Office and Service Center",
+          "address": "Antipolo, San Antonio, Zambales",
+          "tel_no": "913-4612"
+        },
+        {
+            "id": "7",
+          "name": "San Narciso Collection Office",
+          "address": "Libertad, San Narciso, Zambales",
+          "tel_no": "047-913-3902"
+        },
+        {
+            "id": "8",
+          "name": "San Felipe Collection Office",
+          "address": "Brgy. Rosete, San Felipe, Zambales",
+          "tel_no": "047-913-4512"
+        },
+        {
+            "id": "9",
+          "name": "Cabangan Collection Office",
+          "address": "Dolores, Cabangan, Zambales"
+        }
+      ]
+      
+}

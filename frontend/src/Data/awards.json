@@ -1,0 +1,69 @@
+{
+    "Awards":
+    [
+        {
+            "id":1,
+            "src": "../../placeholder/trophy-placeholder.png",
+            "title":"Sample Award 1",
+            "description": "Prompt Payor Award – Certificate of Appreciation for being a Prompt Payor for the period of May 26, 2011 up to December 25, 2012",
+            "year": "March 2013",
+            "created_at": "January 1, 2019"
+        },
+        {
+            "id":2,
+            "src": "../../placeholder/trophy-placeholder.png",
+            "title":"Sample Award 2",
+            "description": "Sunshine Region Award for having the biggest number of house connections through the concerted efforts and innovative strategies of all ECs in the region III, thus successful P-not sitios energization in 2011 (April 27, 2012) – NEA",
+            "year": "April 2012",
+            "created_at": "February 1, 2019"
+        },
+        {
+            "id":3,
+            "src": "../../placeholder/trophy-placeholder.png",
+            "title":"Sample Award 3",
+            "description": "Special Award for Category A+ Ecs (April 25, 2008) – NEA",
+            "year": "2008",
+            "created_at": "March 1, 2019"
+        },
+        {
+            "id":4,
+            "src": "../../placeholder/trophy-placeholder.png",
+            "title":"Sample Award 4",
+            "description": "Best in Collection Performance in 2007 & Special Award or Lumia Award",
+            "year": "2007",
+            "created_at": "January 1, 2020"
+        },
+        {
+            "id":5,
+            "src": "../../placeholder/trophy-placeholder.png",
+            "title":"Sample Award 2",
+            "description": "Best in Collection Performance in 2007 & Special Award or Lumia Award",
+            "year": "No Date",
+            "created_at": "February 1, 2019"
+        },
+        {
+            "id":6,
+            "src": "../../placeholder/trophy-placeholder.png",
+            "title":"Sample Award 3",
+            "description": "Best Electric Cooperative in Region",
+            "year": "1987 to 1991",
+            "created_at": "March 1, 2019"
+        },
+        {
+            "id":7,
+            "src": "../../placeholder/trophy-placeholder.png",
+            "title":"Sample Award 4",
+            "description": "Category A",
+            "year": "1989 to 1990",
+            "created_at": "January 1, 2020"
+        },
+        {
+            "id":8,
+            "src": "../../placeholder/trophy-placeholder.png",
+            "title":"Sample Award 4",
+            "description": "Category C and classified as Medium Cooperative",
+            "year": "1984 to 1999",
+            "created_at": "January 1, 2020"
+        }
+    ]
+}

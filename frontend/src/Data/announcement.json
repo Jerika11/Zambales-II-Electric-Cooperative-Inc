@@ -1,0 +1,64 @@
+
+    [
+        {
+            "id":1,
+            "src": "../../announcements/announcement-1.jpg",
+            "type":"Power Interruption",
+            "company": "ZAMECO",
+            "date":"February 6, 2024",
+            "time":"8:30 AM - 5:00 PM",
+            "affectedArea":"Part of Simminublan of San Narciso",
+            "purpose": "Relocation of poles due to DPWH road widening project.",
+            "status": "Scheduled ",
+            "created_at": "January 1, 2019"
+        },
+        {
+            "id":2,
+            "src": "../../announcements/announcement-2.jpg",
+            "type":"Power Interruption",
+            "company": "NGCP",
+            "date":"February 3, 2024",
+            "time":"6:00 AM - 6:30 AM, 5:30 PM - 6:00 PM",
+            "affectedArea":"Whole area of Subic, (Including Prk 13 Baloy), Whole area of Castillejos, Whole are of San Marcelino, Whole area of San Antonio, Whole area of San Narciso, Whole area of San Felipe, Whole area of Cabangan",
+            "purpose": "(AM) Momentary outage for shifting of loads, (PM) Momentary ouage for shifting back of loads (Normalization).",
+            "status": "Unscheduled",
+            "created_at": "January 1, 2019"
+        },
+        {
+            "id":3,
+            "src": "../../announcements/announcement-3.jpg",
+            "type":"Power Interruption",
+            "company": "NGCP",
+            "date":"January 26, 2024",
+            "time":"6:00 AM - 7:00 AM, 5:00 PM - 6:00 PM",
+            "affectedArea":"Whole area of Subic, (Including Prk 13 Baloy), Whole area of Castillejos, Whole are of San Marcelino, Whole area of San Antonio, Whole area of San Narciso, Whole area of San Felipe, Whole area of Cabangan",
+            "purpose": "(AM) Momentary outage for shifting of loads, (PM) Momentary ouage for shifting back of loads (Normalization)",
+            "status": "Cancelled",
+            "created_at": "January 1, 2019"
+        },
+        {
+            "id":4,
+            "src": "../../announcements/announcement-3.jpg",
+            "type":"Power Interruption",
+            "company": "ZAMECO",
+            "date":"January 29, 2024",
+            "time":"6:00 AM - 7:00 AM, 5:00 PM - 6:00 PM",
+            "affectedArea":"Whole area of Subic, (Including Prk 13 Baloy), Whole area of Castillejos, Whole are of San Marcelino, Whole area of San Antonio, Whole area of San Narciso, Whole area of San Felipe, Whole area of Cabangan",
+            "purpose": "(AM) Momentary outage for shifting of loads, (PM) Momentary ouage for shifting back of loads (Normalization)",
+            "status": "Cancelled",
+            "created_at": "January 1, 2019"
+        },
+        {
+            "id":5,
+            "src": "../../announcements/announcement-4.jpg",
+            "type":"Public Announcement",
+            "company": "ZAMECO",
+            "date":"January 29, 2024",
+            "time":"None",
+            "affectedArea":"None",
+            "purpose": "None",
+            "status": "None",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "created_at": "January 1, 2019"
+        }
+    ]
